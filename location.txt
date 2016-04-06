@@ -1,0 +1,3 @@
+http://www.aerialview.tv/app/KodiWizard/versionfiles/TITAN/update.zip
+http://www.aerialview.tv/app/KodiWizard/versionfiles/NEBULA/update.zip
+http://www.aerialview.tv/app/KodiWizard/versionfiles/GLASS/update_1437471097.zip

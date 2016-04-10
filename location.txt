@@ -1,1 +1,4 @@
 http://www.aerialview.tv/app/lodi/build/options.zip
+location of build 2
+location of build 3
+location of build 4

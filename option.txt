@@ -1,11 +1,10 @@
-[KODI 16] Pulse CCM Clean (March 13th)
+[KODI 16] Pulse CCM Clean (April 10th) [Replaces Potionseller for Kodi 16]
 [KODI 16] Pulse CCM Adult (March 13th)
-[KODI 16] The Royalist (March 7th)
-[KODI 16] The Beast (March 3rd)
-[KODI 17] PotionSeller - Krypton (4th April) ***FOR KODI 17 ONLY**
-[KODI 17] The Wizard Prism CCW
-[KODI 17] The Royalist Krypton (20th March)
+[KODI 16] The Wizard Prism CCW
+[KODI 17] Pulse CCM Krypton [Replaces Potionseller for Kodi 17]
+[KODI 17] The Wizard Prism CCW [Similar to Pulse - better for boxes]
+[KODI 17] The Beast Krypton (April 8th)
+[KODI 17] The Royalist (March 20th)
 [KODI 17] CHAPPiE Builds (Krypton Family Pink) 19th March
-[KODI 17] The Beast Krypton (14th March)
 [KODI 17] CHAPPiE Builds (Krypton LiTE) (13th March)
 [POTIONSELLER WIZARD ONLY] - Just the Install Wizard
